@@ -49,7 +49,7 @@ export default class MyDocument extends Document {
           />
           <meta
             name='copyright'
-            content={`© ${new Date().getFullYear()} Canada Cannabyss`}
+            content={`© ${new Date().getFullYear()} Email client`}
           />
         </Head>
         <body>

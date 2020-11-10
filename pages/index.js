@@ -27,7 +27,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Hennge Admission</title>
+        <title>Email client</title>
       </Head>
       <SearchBar onChangeEmails={onChangeEmails} />
       <Results emailCount={emails.length} />
